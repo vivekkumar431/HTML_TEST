@@ -1,0 +1,76 @@
+developer.mozilla.org
+case inSensitivity
+         Html Tag
+        ##########
+ Heading Tag:-   <h1>, <h2>, <h3>, <h4>,  <h5>,<h6>
+Paragraph tag:-<p></p>
+Break Tag:- <br>
+Horizental Tag:-<hr>
+Image Tag:- <img>
+Video Tag:-<video>
+Audio Tag:- <audio>
+Anchor Tag:-<a href=""></a>
+Bold Tag:-<b></b>
+Itelic Tag:- <i></i>
+Underline Tag:- <u></u>
+Strikethrouge Tag:-<s></s>
+
+         Pre Tag
+         -------
+Pre tag is used to print same to same content that means not remove space.
+<pre></pre>
+
+Big Tag:-<big></big>
+Small Tag:- <small></small>
+SuperScript/SubScript Tag:-  <sup></sup>
+                             <sub></sub>
+
+    Browser Tools
+    #############
+1.View Page SOurce
+2.Inspect Element
+
+Using validator.w3.org this site is used to check the error in the page.
+
+Sementic Tags
+<header><footer><article><section><nav>
+
+Non Sementic Tags
+<div><i><b><span>
+
+          
+<header><nav></nav></header>//Header Tag
+<main>
+<section>
+<article></article>           main is Body Tag
+<article></article>
+<article></article>
+</section>
+<section></section>
+<aside>
+<section></section>
+<section></section>
+</aside>
+</main>
+
+<footer></footer>           Footer Tag
+
+Block/Inline Element
+Block Elements:-
+            New Line:- Starts on a new line.
+             Full Width:Take up all horizontal space.
+             Styling: can have margins and padding.
+             Size: width and height can be set.
+             Example:
+             <div><p><h1><ul><li>
+Inline Element:-
+             flow: stay in line with taxt.
+             width: just as wide as the content .
+             No break: no new line Between.
+             Limited Styling: Can't space easily .
+             Example:<span><em><img><Strong><a>
+
+List Tag:-
+order List :-<ol>
+type of Order List type="1",type="A",type="a",type="i",type="I"
+unorder List :-<ul>
